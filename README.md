@@ -8,6 +8,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Initializing+NexScrape+Engine...;Bypassing+Restrictions...;Running+AI+Sentiment+Analysis...;Exporting+Data+to+Excel+and+JSON...;Zero+Configuration.+Absolute+Power." alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<a href="https://nex-scrape-smart-web-scraper.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🔴_LIVE_DEMO_AVAILABLE-ACCESS_NEXSCRAPE_NOW-FF0055?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<br/><br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-00E5FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-3.0-00E5FF?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -29,6 +37,8 @@
 </div>
 
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
 ## 💎 What Does It Do?
 
@@ -44,6 +54,8 @@ NexScrape acts as your intelligent data agent. You simply paste **any public URL
 - **Luxurious Experience**: Say goodbye to boring terminal scrapers. Experience smooth transitions, glassmorphism, animated logs, and live charts.
 
 <br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<br/>
 
 ## ⚡ Elite Features Arsenal
 
@@ -57,6 +69,8 @@ NexScrape acts as your intelligent data agent. You simply paste **any public URL
 | 🌓 **Adaptive UI Engine** | Seamlessly toggle between **Obsidian Cyberpunk (Dark)** and **Clean SaaS (Light)** modes. |
 | ⬇️ **1-Click Exports** | Instantly download your extracted data into **Excel (.xlsx)**, **.CSV**, or **.JSON**. |
 
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br/>
 
 ## ⚖️ Engine Capabilities: Strengths & Limitations
@@ -73,6 +87,8 @@ To maintain absolute transparency, here is exactly what NexScrape excels at, and
 - **Enterprise Anti-Bot Firewalls**: Websites strictly guarded by advanced protections (like aggressive Cloudflare checks, Akamai, or CAPTCHAs) may result in a **403 Forbidden** error. *Why?* The engine rotates User-Agents, but it cannot solve visual CAPTCHAs or pass advanced JavaScript fingerprinting tests.
 - **Authenticated/Private Dashboards**: The scraper operates completely statelessly. *Why?* It does not maintain login sessions or cookies, meaning it can only extract publicly accessible internet data.
 
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 <br/>
 
 ## 🧬 Premium Tech Stack
@@ -103,7 +119,7 @@ To maintain absolute transparency, here is exactly what NexScrape excels at, and
 
 ## ⚙️ Lightning Setup
 
-Experience raw extraction power in under 30 seconds.
+Experience raw extraction power locally in under 30 seconds.
 
 ```bash
 # 1. Clone the repository
